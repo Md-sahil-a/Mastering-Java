@@ -1,1 +1,1 @@
-⚛️ React.js Reboot Repository: Reboot your React journey with our exclusive practice repository. This platform is your springboard to revisit React's core concepts, experiment with modern patterns, and refine your web development finesse. Embrace the thrill of crafting interactive user interfaces and harness the power of React's ecosystem
+🚀 Rediscovering the world of Java! This repository chronicles my Java programming journey, from the fundamentals to advanced concepts. Join me as I dive back into coding with Java and create exciting projects along the way
