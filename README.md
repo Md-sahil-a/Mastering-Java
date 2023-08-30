@@ -1,1 +1,1 @@
-🚀 Rediscovering the world of Java! This repository chronicles my Java programming journey, from the fundamentals to advanced concepts. Join me as I dive back into coding with Java and create exciting projects along the way
+☕ Rediscovering the world of Java! This repository chronicles my Java programming journey, from the fundamentals to advanced concepts. Join me as I dive back into coding with Java and create exciting projects along the way
